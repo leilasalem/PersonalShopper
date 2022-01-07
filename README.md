@@ -1,4 +1,4 @@
-bestie is a command line tool for finding anomalies on YOOX
+bestie is a friendly bot for finding anomalies on YOOX
 
 ## Setup
 For Playwright installation, see https://playwright.dev/python/docs/intro
