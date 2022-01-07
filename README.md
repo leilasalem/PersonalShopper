@@ -10,5 +10,3 @@ For Playwright installation, see https://playwright.dev/python/docs/intro
 - Save changes, then from terminal navigate to project directory and run scraper to populate shopper.json 
 - run bestie.py to see results
 
-## Comments
-Note that this project has not been updated since February 2020
